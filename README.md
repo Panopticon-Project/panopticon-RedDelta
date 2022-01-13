@@ -11,3 +11,5 @@ https://www.kashifali.ca/2021/03/16/mcafee-defenders-blog-operation-dianxun/
 https://therecord.media/indonesian-intelligence-agency-compromised-in-suspected-chinese-hack/
 
 https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
+
+https://www.securityweek.com/chinese-cyber-espionage-group-targeted-ngos-years
