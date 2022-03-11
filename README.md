@@ -13,3 +13,5 @@ https://therecord.media/indonesian-intelligence-agency-compromised-in-suspected-
 https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-espionage
 
 https://www.securityweek.com/chinese-cyber-espionage-group-targeted-ngos-years
+
+https://www.securityweek.com/chinas-hacking-european-diplomats-aligns-russia-ukraine-conflict
