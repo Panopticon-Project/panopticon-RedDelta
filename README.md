@@ -17,3 +17,5 @@ https://www.securityweek.com/chinese-cyber-espionage-group-targeted-ngos-years
 https://www.securityweek.com/chinas-hacking-european-diplomats-aligns-russia-ukraine-conflict
 
 https://thehackernews.com/2022/03/chinese-mustang-panda-hackers-spotted.html
+
+https://therecord.media/mustang-panda-hacking-group-exploiting-ukraine-invasion-covid-19-to-spread-malware
