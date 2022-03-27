@@ -15,3 +15,5 @@ https://www.securityweek.com/17-malware-frameworks-target-air-gapped-systems-esp
 https://www.securityweek.com/chinese-cyber-espionage-group-targeted-ngos-years
 
 https://www.securityweek.com/chinas-hacking-european-diplomats-aligns-russia-ukraine-conflict
+
+https://thehackernews.com/2022/03/chinese-mustang-panda-hackers-spotted.html
