@@ -19,3 +19,5 @@ https://www.securityweek.com/chinas-hacking-european-diplomats-aligns-russia-ukr
 https://thehackernews.com/2022/03/chinese-mustang-panda-hackers-spotted.html
 
 https://therecord.media/mustang-panda-hacking-group-exploiting-ukraine-invasion-covid-19-to-spread-malware
+
+https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant
