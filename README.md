@@ -23,3 +23,5 @@ https://therecord.media/mustang-panda-hacking-group-exploiting-ukraine-invasion-
 https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-korplug-variant
 
 https://www.securityweek.com/chinese-cyberspies-targeting-russian-military
+
+https://blog.talosintelligence.com/2022/05/mustang-panda-targets-europe.html
