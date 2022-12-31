@@ -25,3 +25,7 @@ https://www.welivesecurity.com/2022/03/23/mustang-panda-hodur-old-tricks-new-kor
 https://www.securityweek.com/chinese-cyberspies-targeting-russian-military
 
 https://blog.talosintelligence.com/2022/05/mustang-panda-targets-europe.html
+
+https://kienmanowar.wordpress.com/2022/12/27/diving-into-a-plugx-sample-of-mustang-panda-group/
+
+https://www.recordedfuture.com/reddelta-targets-european-government-organizations-continues-iterate-custom-plugx-variant
