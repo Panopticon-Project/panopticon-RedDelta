@@ -29,3 +29,5 @@ https://blog.talosintelligence.com/2022/05/mustang-panda-targets-europe.html
 https://kienmanowar.wordpress.com/2022/12/27/diving-into-a-plugx-sample-of-mustang-panda-group/
 
 https://www.recordedfuture.com/reddelta-targets-european-government-organizations-continues-iterate-custom-plugx-variant
+
+https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian-war-to-attack-europe-and-asia-pacific-targets
