@@ -35,3 +35,5 @@ https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian
 https://www.lac.co.jp/lacwatch/report/20221117_003189.html
 
 https://blog.talosintelligence.com/mustang-panda-targets-europe/
+
+https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html
